@@ -18,9 +18,9 @@ Developed a machine learning classification model which predicts the Status: WON
 Created a Streamlit page where you can insert each column value and get the Selling_Price predicted value or Status (Won/Lost).
 
 ## Libraries Used:
-NumPy
-Pandas
-Scikit-learn
-json
-Pickel
-Matplotlib
+NumPy,
+Pandas,
+Scikit-learn,
+json,
+Pickel,
+Matplotlib.
